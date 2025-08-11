@@ -1,0 +1,13 @@
+{
+  "name": "welcome-bot",
+  "version": "1.0.0",
+  "main": "api/webhook.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "micro": "^9.3.4",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}
